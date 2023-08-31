@@ -1,4 +1,4 @@
-# Euro-Coin-Detection
+# Euro-Coin-Detection-Yolov5
 
 
 
